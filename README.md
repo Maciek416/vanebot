@@ -5,4 +5,8 @@ vanebot
 
 A helpful IRC bot for serving up weather forecasts and related info.
 
-To run, clone `bot.conf.sample` into `bot.conf` and configure your bot name, IRC networks and channels. Vanebot will instantiate a unique bot instance for each configured IRC network.
+To run:
+
+Clone `bot.conf.sample` into `bot.conf` and configure your bot name, IRC networks and channels. Vanebot will instantiate a unique bot instance for each configured IRC network.
+
+Once configured, run the bot with `node main.js`
