@@ -1,5 +1,5 @@
 {
-  "name": "VaneBot",
+  "name": "vanebot",
   "version": "0.0.1",
   "description": "A helpful multi-network IRC bot for serving up weather forecasts and related info",
   "private": false,
