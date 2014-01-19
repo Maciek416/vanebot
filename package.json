@@ -1,0 +1,34 @@
+{
+  "name": "VaneBot",
+  "version": "0.0.1",
+  "description": "A helpful multi-network IRC bot for serving up weather forecasts and related info",
+  "private": false,
+  "engines": {
+    "node": ">= 0.10.x",
+    "npm": "1.2.x"
+  },
+  "main": "main",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Maciek416/vanebot.git"
+  },
+  "devDependencies": {
+    "mocha": ">= 1.9.0",
+    "should": ">= 1.2.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "address-gps": "0.0.1",
+    "weather-forecast": "0.0.1",
+    "nconf": "0.6.8",
+    "domo-kun": "0.1.4",
+    "underscore": "1.5.2"
+  },
+  "keywords": [
+    "weather", "IRC", "GPS"
+  ],
+  "author": "Maciej Adwent (http://github.com/Maciek416)",
+  "license": "BSD"
+}

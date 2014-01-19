@@ -1,0 +1,20 @@
+{
+  "bot": {
+    "nick": "vanebotsample",
+    "userName": "vanebot_SAMPLE",
+    "realName": "vanebot_SAMPLE",
+    "users": [
+      {
+        "username": "root",
+        "password": "changeme"
+      }
+    ],
+    "debug": true
+  },
+  "networks": [
+    {
+      "address": "irc.freenode.org",
+      "channels": ["#vanebot"]
+    }
+  ]
+}
