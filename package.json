@@ -1,7 +1,7 @@
 {
   "name": "vanebot",
-  "version": "0.0.2",
-  "description": "A helpful multi-network IRC bot for serving up weather forecasts and related info",
+  "version": "0.0.3",
+  "description": "A multi-network IRC bot for serving up weather forecasts and related info",
   "private": false,
   "engines": {
     "node": ">= 0.10.x",
