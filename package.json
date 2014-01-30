@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "address-gps": "0.0.1",
+    "gps-distance": "0.0.3",
     "weather-forecast": "0.0.1",
     "nconf": "0.6.8",
     "domo-kun": "0.1.4",
