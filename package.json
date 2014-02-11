@@ -28,6 +28,7 @@
     "domo-kun": "0.1.4",
     "underscore": "1.5.2",
     "cool-ascii-faces": "1.3.1"
+    "upsidedown": "0.0.2",
   },
   "keywords": [
     "weather", "IRC", "GPS"
