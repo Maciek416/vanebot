@@ -1,6 +1,6 @@
 {
   "name": "vanebot",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A multi-network IRC bot for serving up weather forecasts and related info",
   "private": false,
   "engines": {
@@ -28,7 +28,7 @@
     "domo-kun": "0.1.4",
     "underscore": "1.5.2",
     "cool-ascii-faces": "1.3.1",
-    "upsidedown": "0.0.3",
+    "upsidedown": "0.0.4",
     "wowmom": "0.0.2"
   },
   "keywords": [
