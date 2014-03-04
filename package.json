@@ -29,10 +29,12 @@
     "underscore": "1.5.2",
     "cool-ascii-faces": "1.3.1",
     "upsidedown": "0.0.5",
-    "wowmom": "0.0.3"
+    "wowmom": "0.0.4"
   },
   "keywords": [
-    "weather", "IRC", "GPS"
+    "weather",
+    "IRC",
+    "GPS"
   ],
   "author": "Maciej Adwent (http://github.com/Maciek416)",
   "license": "BSD"
